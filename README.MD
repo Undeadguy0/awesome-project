@@ -2,4 +2,4 @@
 ## Проект
 Этот репозиторий является каркасом для будущего веб-приложения.
 ## Ссылки
-- [Публичная страница на GitHub Pages](https://undeadguy0.github.io/awesome-project/src)
+- [Публичная страница на GitHub Pages](https://undeadguy0.github.io/awesome-project/src/index.html)
